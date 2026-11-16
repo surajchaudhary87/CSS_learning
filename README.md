@@ -1,1 +1,35 @@
-# CSS_learning
+
+# CSS Learning – 50 Days 🎨
+
+Welcome to my 50 Days of CSS Learning Journey!
+
+## About This Repository
+This repository contains my daily CSS learning notes, examples, and practice code.
+
+## Learning Goals
+- Understand CSS fundamentals
+- Learn CSS selectors and properties
+- Master Box Model
+- Learn Flexbox and Grid
+- Create responsive web designs
+- Build practical projects
+
+## Course Progress
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 01 | CSS Introduction | In Progress |
+| Day 02 | CSS Syntax | Upcoming |
+| Day 03 | CSS Selectors | Upcoming |
+
+## Technologies
+- HTML
+- CSS
+- Visual Studio Code
+
+## Author
+Suraj Chaudhary
+
+GitHub: https://github.com/surajchaudhary87
+
+LinkedIn: https://www.linkedin.com/in/suraj-chaudhary87
