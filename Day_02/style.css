@@ -1,0 +1,29 @@
+/* Element Selector */
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* ID Selector */
+#main-heading {
+    color: blue;
+}
+
+/* Class Selector */
+.sub-heading {
+    color: green;
+}
+
+.description {
+    color: darkred;
+    font-size: 18px;
+}
+
+/* ID Selector */
+#learn-btn {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
