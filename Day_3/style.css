@@ -1,0 +1,35 @@
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Element Selector */
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+}
+
+/* Grouping Selector */
+h1, h2 {
+    color: blue;
+    text-align: center;
+}
+
+/* Descendant Selector */
+.container p {
+    color: red;
+    font-size: 18px;
+}
+
+/* Grouping Selector */
+button, p {
+    font-family: Arial, sans-serif;
+}
+
+/* Class Selector */
+.container {
+    background-color: lightblue;
+    padding: 20px;
+}
