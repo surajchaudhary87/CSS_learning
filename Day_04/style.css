@@ -1,0 +1,58 @@
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightyellow;
+    text-align: center;
+    padding: 30px;
+}
+
+h1, h2 {
+    color: darkblue;
+    margin: 20px;
+}
+
+/* Attribute Exists */
+input[placeholder] {
+    display: block;
+    padding: 12px;
+    margin: 12px auto;
+}
+
+/* Exact Match */
+input[type="email"] {
+    border: 2px solid blue;
+}
+
+/* Exact Match */
+input[type="password"] {
+    border: 2px solid green;
+}
+
+/* Exact Match */
+input[type="submit"] {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+/* Starts With */
+a[href^="https"] {
+    color: green;
+}
+
+/* Ends With */
+a[href$=".pdf"] {
+    color: red;
+}
+
+/* Contains */
+a[href*="youtube"] {
+    font-weight: bold;
+}
