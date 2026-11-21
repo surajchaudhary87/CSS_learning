@@ -1,0 +1,88 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background-color: #f4f4f4;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Hover */
+nav {
+    text-align: center;
+    background-color: #222;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+nav a:hover {
+    background-color: blue;
+}
+
+/* First Child */
+li:first-child {
+    color: red;
+}
+
+/* Last Child */
+li:last-child {
+    color: green;
+}
+
+/* Nth Child */
+li:nth-child(even) {
+    background-color: lightblue;
+}
+
+li:nth-child(odd) {
+    background-color: lightyellow;
+}
+
+li {
+    padding: 12px;
+    list-style-position: inside;
+}
+
+/* Focus */
+input {
+    display: block;
+    padding: 12px;
+    margin: 12px auto;
+    width: 250px;
+    border: 2px solid gray;
+}
+
+input:focus {
+    border-color: blue;
+    outline: none;
+}
+
+/* Active */
+button {
+    display: block;
+    margin: 15px auto;
+    padding: 12px 25px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: green;
+    transform: scale(0.95);
+}
