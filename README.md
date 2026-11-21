@@ -19,8 +19,10 @@ This repository contains my daily CSS learning notes, examples, and practice cod
 | Day | Topic | Status |
 |---|---|---|
 | Day 01 | CSS Introduction | In Progress |
-| Day 02 | CSS Syntax | Upcoming |
-| Day 03 | CSS Selectors | Upcoming |
+| Day 02 | CSS Syntax | Completed |
+| Day 03 | CSS Selectors | Completed |
+| Day 04 | CSS Attributes Selectors | Completed |
+| Day 05 | CSS Pseudo-Class Selectors | Completed |
 
 ## Technologies
 - HTML

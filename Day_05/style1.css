@@ -1,0 +1,49 @@
+/* 1 */
+button{
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+}
+
+button:hover{
+    background-color: red;
+}
+
+/* 2 */
+input{
+    border: 2px solid black;
+    outline: none;
+}
+
+input:focus{
+    border-color: blue;
+    outline: none;
+}
+
+/* 3 */
+button:active {
+    background-color: green;
+    transform: scale(0.95);
+}
+
+/* 4 */
+p:first-child {
+    color: red;
+}
+p:last-child {
+    color: blue;
+}
+
+/* 5 */
+li:nth-child(2) {
+    color: red;
+}
+
+li:nth-child(even) {
+    background-color: lightblue;
+}
+
+li:nth-child(odd) {
+    background-color: lightyellow;
+}
