@@ -1,0 +1,62 @@
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    padding: 40px;
+}
+
+/* Card Styling */
+.card {
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* Before */
+h1::before {
+    content: "★ ";
+    color: orange;
+}
+
+/* After */
+h1::after {
+    content: " ✓";
+    color: green;
+}
+
+/* First Letter */
+.description::first-letter {
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* First Line */
+.info::first-line {
+    color: green;
+    font-weight: bold;
+}
+
+/* Selection */
+p::selection {
+    background-color: yellow;
+    color: red;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
