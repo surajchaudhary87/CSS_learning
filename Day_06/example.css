@@ -1,0 +1,30 @@
+/* ::before  */
+h2::before{
+    content: "Hello! ";
+    color: red;
+}
+
+/* ::after */
+p::after {
+    content: " ✓";
+    color: green;
+}
+
+/* ::first-letter */
+p::first-letter {
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* ::first-line */
+p::first-line {
+    color: blue;
+    font-weight: bold;
+}
+
+/* ::selection */
+p::selection {
+    background-color: yellow;
+    color: red;
+}

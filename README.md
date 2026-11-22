@@ -23,6 +23,7 @@ This repository contains my daily CSS learning notes, examples, and practice cod
 | Day 03 | CSS Selectors | Completed |
 | Day 04 | CSS Attributes Selectors | Completed |
 | Day 05 | CSS Pseudo-Class Selectors | Completed |
+| Day 06 | CSS Pseudo-Class Elements | Completed |
 
 ## Technologies
 - HTML
