@@ -1,0 +1,45 @@
+/* 1. Named Colors */
+
+.a{
+    color: red;
+}
+.b{
+    color: blue;
+}
+.c{
+    color: green;
+}
+.d{
+    color: yellow;
+}
+
+
+/* 2. Hex Colors */
+h1 {
+    color: #FF0000;
+}
+
+p {
+    color: #0000FF;
+}
+
+body {
+    background-color: #F0F8FF;
+}
+
+/* 3. RGB Colors */
+#ab {
+    color: rgb(255, 0, 0);
+}
+
+
+/* 4. RGBA Colors */
+#rgba{
+    color: rgba(255, 0, 0, 0.5);
+}
+
+
+/* 5. HSL Colors */
+#hsl{
+    color: hsl(120, 100%, 50%);
+}
