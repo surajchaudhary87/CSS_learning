@@ -1,0 +1,57 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4F4F4;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #222222;
+    margin-bottom: 25px;
+}
+
+.color-box {
+    padding: 25px;
+    margin: 15px auto;
+    max-width: 400px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+/* Named Color */
+.named {
+    background-color: red;
+}
+
+/* HEX Color */
+.hex {
+    background-color: #008000;
+}
+
+/* RGB Color */
+.rgb {
+    background-color: rgb(0, 0, 255);
+}
+
+/* RGBA Color */
+.rgba {
+    background-color: rgba(255, 0, 0, 0.7);
+}
+
+/* HSL Color */
+.hsl {
+    background-color: hsl(280, 100%, 50%);
+}
+
+/* HSLA Color */
+.hsla {
+    background-color: hsla(180, 100%, 40%, 0.8);
+}
