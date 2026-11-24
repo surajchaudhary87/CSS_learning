@@ -5,3 +5,15 @@ body {
 .card {
     background-color: white;
 }
+
+#bg{
+    size: 50px;
+}
+
+body {
+    background-image: url("background.jpg");
+}
+
+body {
+    background-repeat: no-repeat;
+}
