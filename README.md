@@ -25,6 +25,7 @@ This repository contains my daily CSS learning notes, examples, and practice cod
 | Day 05 | CSS Pseudo-Class Selectors | Completed |
 | Day 06 | CSS Pseudo-Class Elements | Completed |
 | Day 07 | CSS Colors | Completed |
+| Day 08 | CSS Background | Completed |
 
 ## Technologies
 - HTML
