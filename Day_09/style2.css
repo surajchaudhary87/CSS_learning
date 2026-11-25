@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* 1.CSS Border */
+.box {
+    height: 250px;
+    width: 500px;
+    align-items: center;
+    border: 2px solid black;
+    background-color: aqua;
+}
+
+/* 2. CSS Border Styles */
+.box1 {
+    border-style: solid;
+    height: 250px;
+    width: 500px;
+}
+
+.box2 {
+    border-style: dashed;
+    height: 250px;
+    width: 500px;
+}
+
+.box3 {
+    border-style: dotted;
+    height: 250px;
+    width: 500px;
+}
+
+.box4 {
+    border-style: double;
+    height: 250px;
+    width: 500px;
+}
+
+/* 3. Different side width */
+.box5 {
+    height: 250px;
+    width: 500px;
+    border-width: 2px 4px 6px 8px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* 4. Different sides colors */
+.box6 {
+    border-style: solid;
+    height: 250px;
+    width: 500px;
+    border-top-color: red;
+    border-right-color: blue;
+    border-bottom-color: green;
+    border-left-color: orange;
+}
+
+/* 5. Individual border Properties */
+.box7 {
+    height: 250px;
+    width: 500px;
+    border-top: 2px solid red;
+    border-right: 3px dashed blue;
+    border-bottom: 4px dotted green;
+    border-left: 5px double orange;
+}
+
+/* 6. Border heading */
+.heading {
+    display: inline;
+    border-bottom: 5px solid blue;
+}

@@ -26,6 +26,7 @@ This repository contains my daily CSS learning notes, examples, and practice cod
 | Day 06 | CSS Pseudo-Class Elements | Completed |
 | Day 07 | CSS Colors | Completed |
 | Day 08 | CSS Background | Completed |
+| Day 09 | CSS Borders and Border Properties | Completed |
 
 ## Technologies
 - HTML
