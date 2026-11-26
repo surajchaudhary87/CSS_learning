@@ -27,6 +27,7 @@ This repository contains my daily CSS learning notes, examples, and practice cod
 | Day 07 | CSS Colors | Completed |
 | Day 08 | CSS Background | Completed |
 | Day 09 | CSS Borders and Border Properties | Completed |
+| Day 10 | CSS Margin and Padding | Completed |
 
 ## Technologies
 - HTML

@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav1{
+    width: 250px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.nav2{
+    width: 250px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.nav3{
+    width: 250px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.nav4{
+    width: 250px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.nav5{
+    width: 250px;
+    height: 150px;
+    background-color: aqua;
+    margin: 0 auto;
+}
