@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    width: 250px;
+    height: 150px;
+    background-color: aqua;
+    margin-left: 20px;
+}
+.inbox{
+    background-color: aquamarine;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
