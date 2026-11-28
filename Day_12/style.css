@@ -1,0 +1,126 @@
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #1e293b;
+    color: white;
+    padding: 20px 8%;
+}
+
+/* Inline-block */
+.logo {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+/* Inline */
+.nav-links {
+    display: inline-block;
+}
+
+.nav-links a {
+    display: inline;
+    color: white;
+    text-decoration: none;
+    margin: 0 12px;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #dbeafe;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h1 {
+    font-size: 38px;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    margin-bottom: 25px;
+}
+
+/* Inline-block Button */
+.btn {
+    display: inline-block;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 6px;
+}
+
+/* Services */
+.services {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.services h2 {
+    margin-bottom: 30px;
+}
+
+/* Cards Container */
+.container {
+    text-align: center;
+}
+
+/* Inline-block Cards */
+.card {
+    display: inline-block;
+    vertical-align: top;
+
+    width: 260px;
+    min-height: 180px;
+
+    background-color: white;
+    padding: 25px;
+    margin: 10px;
+
+    border: 1px solid #dbeafe;
+    border-radius: 10px;
+}
+
+.card h3 {
+    margin-bottom: 12px;
+    color: #2563eb;
+}
+
+.card p {
+    margin-bottom: 18px;
+    color: #64748b;
+}
+
+.card a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #2563eb;
+    color: white;
+    padding: 9px 15px;
+    border-radius: 5px;
+}
+
+/* Hidden Element */
+.hidden-message {
+    display: none;
+}
+
+/* Footer */
+footer {
+    background-color: #1e293b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
