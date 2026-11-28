@@ -1,0 +1,29 @@
+.box {
+    display: block;
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+}
+
+.box2 {
+    display: block;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(12, 210, 72);
+}
+
+.box3 {
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    background-color: lightgreen;
+}
+
+.para1{
+    display: inline;
+    background-color: yellow;
+}
+
+.hidden {
+    display: none;
+}

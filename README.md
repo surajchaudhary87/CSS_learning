@@ -29,6 +29,7 @@ This repository contains my daily CSS learning notes, examples, and practice cod
 | Day 09 | CSS Borders and Border Properties | Completed |
 | Day 10 | CSS Margin and Padding | Completed |
 | Day 11 | CSS Width and Height | Completed |
+| Day 11 | CSS Display Property | Completed |
 
 ## Technologies
 - HTML
